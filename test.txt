@@ -1,1 +1,2 @@
 This is a simple test.
+It is used to show how git works!
